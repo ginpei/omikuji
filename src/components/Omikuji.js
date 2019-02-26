@@ -7,8 +7,6 @@ const OmikujiContainer = styled(CenterBox)`
   min-height: 100vh;
 `;
 const OmikujiButton = styled.button`
-  background-color: tomato;
-  color: snow;
   height: 80vmin;
   width: 80vmin;
 `;
