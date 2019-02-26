@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/omikuji/index.html/precache-manifest.0dcb58e3d5d0a5549f10cc9cd29c0756.js"
+  "/omikuji/precache-manifest.f678e71f648ef5a28ffb81c8dade8a8e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/omikuji/index.html/index.html", {
+workbox.routing.registerNavigationRoute("/omikuji/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

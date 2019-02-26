@@ -1,13 +1,13 @@
 {
-  "main.css": "/omikuji/index.html/static/css/main.447a1395.chunk.css",
-  "main.js": "/omikuji/index.html/static/js/main.a04e1feb.chunk.js",
-  "main.js.map": "/omikuji/index.html/static/js/main.a04e1feb.chunk.js.map",
-  "runtime~main.js": "/omikuji/index.html/static/js/runtime~main.6987c1aa.js",
-  "runtime~main.js.map": "/omikuji/index.html/static/js/runtime~main.6987c1aa.js.map",
-  "static/js/2.68f11c1e.chunk.js": "/omikuji/index.html/static/js/2.68f11c1e.chunk.js",
-  "static/js/2.68f11c1e.chunk.js.map": "/omikuji/index.html/static/js/2.68f11c1e.chunk.js.map",
-  "index.html": "/omikuji/index.html/index.html",
-  "precache-manifest.0dcb58e3d5d0a5549f10cc9cd29c0756.js": "/omikuji/index.html/precache-manifest.0dcb58e3d5d0a5549f10cc9cd29c0756.js",
-  "service-worker.js": "/omikuji/index.html/service-worker.js",
-  "static/css/main.447a1395.chunk.css.map": "/omikuji/index.html/static/css/main.447a1395.chunk.css.map"
+  "main.css": "/omikuji/static/css/main.447a1395.chunk.css",
+  "main.js": "/omikuji/static/js/main.c165aeb1.chunk.js",
+  "main.js.map": "/omikuji/static/js/main.c165aeb1.chunk.js.map",
+  "runtime~main.js": "/omikuji/static/js/runtime~main.93799204.js",
+  "runtime~main.js.map": "/omikuji/static/js/runtime~main.93799204.js.map",
+  "static/js/2.54e1b7c6.chunk.js": "/omikuji/static/js/2.54e1b7c6.chunk.js",
+  "static/js/2.54e1b7c6.chunk.js.map": "/omikuji/static/js/2.54e1b7c6.chunk.js.map",
+  "index.html": "/omikuji/index.html",
+  "precache-manifest.f678e71f648ef5a28ffb81c8dade8a8e.js": "/omikuji/precache-manifest.f678e71f648ef5a28ffb81c8dade8a8e.js",
+  "service-worker.js": "/omikuji/service-worker.js",
+  "static/css/main.447a1395.chunk.css.map": "/omikuji/static/css/main.447a1395.chunk.css.map"
 }
