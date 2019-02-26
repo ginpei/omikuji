@@ -1,7 +1,7 @@
 {
   "name": "omikuji",
   "version": "0.1.0",
-  "homepage": "https://ginpei.github.io/omikuji/index.html",
+  "homepage": "https://ginpei.github.io/omikuji/",
   "private": true,
   "dependencies": {
     "react": "^16.8.3",
